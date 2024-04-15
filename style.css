@@ -47,6 +47,9 @@ Do not Copyright unless if you has a permission from me to use this code */
        color: #4CAF50;
        text-decoration: none;
     }
+    .modalTxt {
+       color: black;
+    }
     .input-container {
       display: flex;
       align-items: center;
